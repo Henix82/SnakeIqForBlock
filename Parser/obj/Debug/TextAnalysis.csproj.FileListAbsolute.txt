@@ -1,0 +1,14 @@
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\bin\Debug\HarryPotterText.txt
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\bin\Debug\TextAnalysis.exe.config
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\bin\Debug\TextAnalysis.exe
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\bin\Debug\TextAnalysis.pdb
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\bin\Debug\nunit.framework.dll
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\bin\Debug\nunitlite.dll
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.Properties.Resources.resources
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.csproj.CopyComplete
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.exe
+C:\Users\Henix\Desktop\gelberd\TExt\Parser\obj\Debug\TextAnalysis.pdb
