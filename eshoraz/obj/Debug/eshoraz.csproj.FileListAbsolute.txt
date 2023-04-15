@@ -1,0 +1,11 @@
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\bin\Debug\eshoraz.exe.config
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\bin\Debug\eshoraz.exe
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\bin\Debug\eshoraz.pdb
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.csproj.AssemblyReference.cache
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.Properties.Resources.resources
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.csproj.GenerateResource.cache
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.csproj.CoreCompileInputs.cache
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.exe
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.pdb
+C:\Users\Henix\Documents\programizd\c#\project\eshoraz\obj\Debug\eshoraz.Form1.resources
